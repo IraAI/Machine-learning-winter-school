@@ -1,0 +1,5 @@
+question1 : zeros
+question2 :  *
+question3 : .^
+question4 : [d,e] 
+question5 : [d]
