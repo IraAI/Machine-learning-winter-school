@@ -1,0 +1,11 @@
+function [hes,sigma]=sshessian_response(img)
+
+step=1.1; 
+levels=40;
+[ss,sigma]=scalespace(img,levels,step);
+
+hes = zeros(size(ss))
+
+
+
+end
